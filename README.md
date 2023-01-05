@@ -8,9 +8,9 @@ I am a full-stack web and Blockchain Developer in Solidity, React, Node.js, and 
 Here is my GitHub link please check it: 
 https://github.com/Full-stack-Web-Dev-BD
 
-here are some Examples of my task:
-https://github.com/Full-stack-Web-Dev-BD/xkid-deploy
-https://ruggle-development.vercel.app/dex
+here are some Examples of my task:<br/>
+https://github.com/Full-stack-Web-Dev-BD/xkid-deploy <br/>
+https://ruggle-development.vercel.app/dex <br/>
 
 
 let's discuss more your job, I am available 24/7. I hope will have a good collaboration by this project,
